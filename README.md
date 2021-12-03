@@ -1,2 +1,2 @@
-# TRANSHUMAN-AGENTS
+# TRANSHUMAN AGENTS
 Chain of command
